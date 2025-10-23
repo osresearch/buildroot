@@ -1,0 +1,6 @@
+config BR2_PACKAGE_NQPTP
+	bool "NQPTP"
+	help
+	  Not Quite PTP for shairport-sync AirPlay 2 support.
+	  https://github.com/mikebrady/shairport-sync
+
